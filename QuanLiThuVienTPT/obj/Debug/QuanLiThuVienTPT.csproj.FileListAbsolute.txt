@@ -1,0 +1,191 @@
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojAssemblyReference.cache
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.cache
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.CoreCompileInputs.cache
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+D:\HP\Nox Reason\TPT\QuanLiYhuVienTPT\QuanLiYhuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojAssemblyReference.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.CoreCompileInputs.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.CopyComplete
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.cache
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTimKiemSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLichSuDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojResolveAssemblyReference.cache
+D:\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+D:\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+D:\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.xml
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLichSuDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDauSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNXB.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiTacGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTimKiemSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.Cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLoad.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmThongTinTaiKhoan.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmChonBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.FormXemBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.compiled
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.UCTacVu.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.dll
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.xml
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmChonBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLichSuDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLoad.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDauSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNXB.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiTacGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmThongTinTaiKhoan.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTimKiemSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.FormXemBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.UCTacVu.resources
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.Cache
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.cache
+C:\Users\NguyenHoaiPhu\Desktop\ChotDon4\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.compiled
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe.config
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.exe
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\QuanLiThuVienTPT.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.xml
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmChonBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLichSuDangNhap.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLoad.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDauSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNXB.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiTacGia.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmThongTinTaiKhoan.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTimKiemSach.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.FormXemBaoCao.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.UCTacVu.resources
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.Cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmChonBaoCao.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmDangNhap.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLichSuDangNhap.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmLoad.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDauSach.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiDocGia.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiMuonTra.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNhanVien.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiNXB.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiSach.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmQuanLiTacGia.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmThongTinTaiKhoan.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTimKiemSach.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.frmTrangChu.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.FormXemBaoCao.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.Properties.Resources.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.UCTacVu.resources
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.exe
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\QuanLiThuVienTPT\obj\Debug\QuanLiThuVienTPT.pdb

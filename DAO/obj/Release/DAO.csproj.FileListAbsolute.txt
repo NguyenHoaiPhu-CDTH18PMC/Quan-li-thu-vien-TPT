@@ -1,0 +1,9 @@
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\bin\Release\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\bin\Release\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\bin\Release\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\bin\Release\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\obj\Release\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DAO\obj\Release\DAO.pdb

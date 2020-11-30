@@ -1,0 +1,62 @@
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\BUS.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\BUS.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\DTO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\DAO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\bin\Debug\DTO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\obj\Debug\BUS.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\BUS\obj\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\obj\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\obj\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\obj\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\BUS\obj\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\BUS.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DAO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DAO.dll.config
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\BUS\obj\Debug\BUS.pdb

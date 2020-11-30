@@ -1,0 +1,27 @@
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\bin\Debug\DTO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\bin\Debug\DTO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\obj\Debug\DTO.dll
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\obj\Debug\DTO.pdb
+D:\HP\Nox Reason\TPT\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DTO\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DTO\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DTO\obj\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DTO\obj\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\DTO\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\DTO\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\DTO\obj\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\DTO\obj\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\virus\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\bin\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\bin\Debug\DTO.pdb
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.dll
+C:\Users\NguyenHoaiPhu\Desktop\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Downloads\0306181257_0306181290_0306181281\QuanLiThuVienTPT\DTO\obj\Debug\DTO.pdb
